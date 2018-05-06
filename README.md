@@ -13,7 +13,8 @@ check the app demo http://m.falsudan.com/
 
 # - call me for any question +249925042925 
 
-
+# -database :
+in file /backups database/technical_task.sql
 
 
 # - notes
