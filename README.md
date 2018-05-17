@@ -8,9 +8,7 @@
 
 # -first step :
 change (MAIL_USERNAME ,MAIL_PASSWORD,MAIL_FROM_ADDRESS and MAIL_FROM_NAME) in .env file 
-# - or 
-check the app demo http://m.falsudan.com/ 
-
+ 
 # - call me for any question +249925042925 
 
 # -database :
